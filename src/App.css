@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  height: 150px;
+  padding: 10px;
+}
+
+#title {
+  color: #ffe3d4
+}
